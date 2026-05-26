@@ -1,7 +1,8 @@
 function hello() {
-    return 'Hello World!';
+  return 'Hello, World!';
 }
 
 function goodbye() {
     return 'Goodbye!';
 }
+
