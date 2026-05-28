@@ -70,4 +70,6 @@
 \- Додано функцію `hello()`
 
 \- Додано базову документацію
+### Added
+- Added welcome() function
 
